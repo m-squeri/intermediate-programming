@@ -18,22 +18,10 @@ Our game wields the popular 1-3-3-5-9 point system for each pawn, bishop, knight
 White's pieces are capitalized, while black's are lowercase. The game generates a new board for each move, making it easy to view move history.
 
 ### Scholars Mate
-[!
-[Watch the video]
-(https://github.com/m-squeri/intermediate-programming/thumbnails/chess/scholars_mate_thumbnail.png)
-]
-(https://github.com/m-squeri/intermediate-programming/examples/chess/scholars_mate.mp4)
+[![Watch the video](https://github.com/m-squeri/intermediate-programming/thumbnails/chess/scholars_mate_thumbnail.png)](https://github.com/m-squeri/intermediate-programming/examples/chess/scholars_mate.mp4)
 
 ### Pawn Promotion, Checkmate
-[!
-[Watch the video]
-(https://github.com/m-squeri/intermediate-programming/thumbnails/chess/promotion_checkmate.png)
-]
-(https://github.com/m-squeri/intermediate-programming/examples/chess/pawn_promotion_checkmate.mp4)
+[![Watch the video](https://github.com/m-squeri/intermediate-programming/thumbnails/chess/promotion_checkmate.png)](https://github.com/m-squeri/intermediate-programming/examples/chess/pawn_promotion_checkmate.mp4)
 
 ### Save and Load New Games Easily
-[!
-[Watch the video]
-(https://github.com/m-squeri/intermediate-programming/thumbnails/chess/save_load_thumbnail.png)
-]
-(https://github.com/m-squeri/intermediate-programming/examples/chess/save_load_games.mp4.mp4)
+[![Watch the video](https://github.com/m-squeri/intermediate-programming/thumbnails/chess/save_load_thumbnail.png)](https://github.com/m-squeri/intermediate-programming/examples/chess/save_load_games.mp4.mp4)
